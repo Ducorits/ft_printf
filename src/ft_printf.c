@@ -6,11 +6,12 @@
 /*   By: dritsema <dritsema@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2021/11/03 14:43:41 by dritsema      #+#    #+#                 */
-/*   Updated: 2022/06/15 14:20:13 by dritsema      ########   odam.nl         */
+/*   Updated: 2022/06/15 16:49:38 by dritsema      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+#include <unistd.h>
 #include "ft_printf.h"
 #include <stdarg.h>
 

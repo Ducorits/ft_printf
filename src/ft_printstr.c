@@ -6,11 +6,12 @@
 /*   By: dritsema <dritsema@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2021/11/06 15:45:58 by dritsema      #+#    #+#                 */
-/*   Updated: 2021/11/09 13:12:31 by dritsema      ########   odam.nl         */
+/*   Updated: 2022/06/15 16:50:18 by dritsema      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft/libft.h"
+#include "libft.h"
+#include <unistd.h>
 
 int	ft_printstr(char *s)
 {
